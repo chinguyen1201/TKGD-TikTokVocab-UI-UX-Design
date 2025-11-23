@@ -11,7 +11,10 @@ Project for the course **User Interface Design - CSC13112 - HCMUS**
 - MSc. Phạm Nguyễn Sơn Tùng 
 ---
 ### Group 14 – 21KTPM3 (Semester 3 / 2023–2024)
-- 21127234_Nguyen Le Anh Chi  
-- 21127235_Nguyen Xuan Quynh Chi  
-- 21127495_Le Ngo Song Cat  
-- 21127659_Bui Ngoc Kieu Nhi  
+- 21127234_Nguyễn Lê Anh Chi 
+- 21127235_Nguyễn Xuân Quỳnh Chi
+- 21127495_Lê Ngô Song Cát 
+- 21127659_Bùi Ngọc Kiều Nhi
+
+### Important notes
+The file 14-PA1-ProductResearch.pdf inside the 14-PA1 folder is broken. Please use the original file outside the folder instead.
