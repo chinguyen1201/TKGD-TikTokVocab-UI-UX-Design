@@ -1,8 +1,8 @@
 # TKGD-TikTokVocab-UI-UX-Design
 This UX case study presents TikTokVocab, a contextual vocabulary-learning app developed through PA1–PA4, covering product research, user research, prototyping, and user testing. The final hi-fi design applies core UI/UX principles and features a three-sided flashcard with short contextual videos.
 
-Link Video demo: https://www.youtube.com/playlist?list=PLXoaNE-q4v9p3SVPs3EeCxKsGdUGBERGz
-Link Figma prototype: https://www.figma.com/design/OPwGe5jhDMZlFqmhpBc3Ty/Hi-fi-prototype?node-id=0-1&t=2JY78OGJNyr7YFpO-1
+- Link Video demo: https://www.youtube.com/playlist?list=PLXoaNE-q4v9p3SVPs3EeCxKsGdUGBERGz
+- Link Figma prototype: https://www.figma.com/design/OPwGe5jhDMZlFqmhpBc3Ty/Hi-fi-prototype?node-id=0-1&t=2JY78OGJNyr7YFpO-1
 
 Project for the course **User Interface Design - CSC13112 - HCMUS**
 ### Instructors
